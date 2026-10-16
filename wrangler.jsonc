@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "my-first-cloud-app",
+  "name": "cloud-workshop",
   "main": "worker.js",
   "compatibility_date": "2025-03-08",
   "workers_dev": true,
